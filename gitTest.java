@@ -7,4 +7,7 @@ public class gitTest{
 		System.out.println("hi hirad");
 		return 0;
 	}
+	public void sayAss(){
+		System.out.println("Ass");
+	}
 }
