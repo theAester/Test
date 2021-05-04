@@ -1,0 +1,1 @@
+javac gitTest.java & java gitTest & cmd /k
