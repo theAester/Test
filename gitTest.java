@@ -8,6 +8,6 @@ public class gitTest{
 		return 0;
 	}
 	public void sayAss(){
-		System.out.println("Ass");
+		System.out.println("Your Ass");
 	}
 }
