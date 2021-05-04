@@ -7,7 +7,7 @@ public class gitTest{
 		System.out.println("hi hirad");
 		return 0;
 	}
-	public void sayAss(){
+	public void sayYourAss(){
 		System.out.println("Your Ass");
 	}
 }
